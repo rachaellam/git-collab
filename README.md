@@ -12,7 +12,7 @@ READMEs are written in markdown. There is some syntax that can help us write rea
 *italic* <br>
 ~~strikethrough~~ <br>
 **this is a *nested* example** <br>
-***bold and italic*** <br>
+***bold and italic*** <br><br>
 
 > Block quote some text
 
